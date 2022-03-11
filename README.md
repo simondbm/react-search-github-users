@@ -31,8 +31,8 @@ export default ReactComponent
 [React Icons - Main Docs](https://react-icons.github.io/react-icons/)
 
 ```jsx
-import { FiUsers, FiUserPlus } from 'react-icons/fi';
-<FiUsers className='nameOfTheClass'> </FiUsers>;
+import { FiUsers, FiUserPlus } from 'react-icons/fi'
+;<FiUsers className='nameOfTheClass'> </FiUsers>
 ```
 
 ## React Router Dom
@@ -113,3 +113,7 @@ package.json
 ```
 
 [create-react-app Warning Fix Blog Post](https://community.netlify.com/t/how-to-fix-build-failures-with-create-react-app-in-production/17752)
+
+#### App Hosting on Netlify
+
+Visit (https://bignom-github-users-search.netlify.app/login)
